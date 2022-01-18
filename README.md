@@ -31,7 +31,7 @@ This repo provides two utilities: a coupon generator and a code generator.
 
 To create coupon codes in BigCommerce:
 ```
-node generate-coupons.js
+npm run start
 ```
 
 To generate a CSV file of codes but not push them to BigCommerce:
