@@ -10,7 +10,7 @@ The coupons it creates are randomly generated alphanumeric strings of a length t
 2. Generate API keys for your store with the _Marketing: modify_ scope
 3. Clone the repo, copy the environment variables template, install dependencies
 ```
-git clone https://github.com/hatertron3000/coupon-generator
+git clone https://github.com/shane-rivette/coupon-generator
 cd coupon-generator
 cp .env-template .env
 npm i
