@@ -21,7 +21,8 @@ npm i
 |----------------------|---------------------------------------------------------------|
 | STORE_HASH           | BigCommerce store has (example: abcde12345)                   |
 | API_TOKEN            | BigCommerce API token                                         |
-| QUANTITY             | The number of coupons to generate                             |
+| QUANTITY             | The number of coupons to generate                             
+| PROMOTION_ID         | The ID of the coupon promotion in BigCommerce
 | CODE_LENGTH          | The desired character length of coupon codes (min: 6 max: 50) |
 
 ## Usage
