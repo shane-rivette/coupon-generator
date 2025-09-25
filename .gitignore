@@ -2,3 +2,4 @@
 node_modules
 results/*
 .DS_STORE
+demo.js
